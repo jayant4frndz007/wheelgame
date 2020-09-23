@@ -1,0 +1,120 @@
+{
+  "lists": [
+    {
+      "name": "Laxmikant",
+      "id": 0
+    },
+    {
+      "name": "Neelima",
+      "id": 1
+    },
+    {
+      "name": "Anjana",
+      "id": 2
+    },
+    {
+      "name": "Bhargav",
+      "id": 3
+    },
+    {
+      "name": "Gaurav Singh",
+      "id": 4
+    },
+    {
+      "name": "Gaurav Tripathi",
+      "id": 5
+    },
+    {
+      "name": "Karan",
+      "id": 6
+    },
+    {
+      "name": "Venkata Kiran",
+      "id": 7
+    },
+    {
+      "name": "SriKrishna",
+      "id": 8
+    },
+    {
+      "name": "Vamshi",
+      "id": 9
+    },
+    {
+      "name": "Sayali",
+      "id": 10
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "task": [
+        "If you had a time machine, would you go back in time or visit the future?",
+        "Tell me one good thing and bad thing about your previous manager?",
+        "Would you rather have a home on the beach or in the mountains and why?",
+        "Would you rather be the funniest or smartest person in the room and why?"
+      ]
+    },
+    {
+      "id": 2,
+      "task": [
+        "You need to sing a song?",
+        "One of the most embarrassing moment in life",
+        "What was your favorite game as a child?",
+        "What is the best and worst things working from home?"
+      ]
+    },
+    {
+      "id": 3,
+      "task": [
+        "Tell a diolouge from your favourite movie",
+        "Share 3 things from your bucket list",
+        "If you could visit one place on Earth where would you go?",
+        "Which is the lie that you’ve frequently gotten away with?"
+      ]
+    },
+    {
+      "id": 4,
+      "task": [
+        "Tell A B C D...Z in reverse order",
+        "If you could commit any crime and get away with it what would you choose and why?",
+        "have you ever regifted anything, what was that?"
+      ]
+    },
+    {
+      "id": 5,
+      "task": [
+        "Would you rather be rich or famous?",
+        "If you were a superhero what powers would you have?",
+        "How would be your ideal partner?"
+      ]
+    },
+    {
+      "id": 6,
+      "task": [
+        "ask us a puzzle",
+        "If you could change anything about yourself what would it be?",
+        "If you were an animal, what would you be and why?"
+      ]
+    },
+    {
+      "id": 7,
+      "task": [
+        "Make noises of atleat 5 different animals or birds",
+        "worst movie of your life and why?",
+        "What are you currently worried about?"
+      ]
+    },
+    {
+      "id": 8,
+      "task": [
+        "Have you ever hated you team mate, would you like to share the reason",
+        "How do you judge a person?",
+        "Would you rather lose all of your money or all of your pictures, explain?"
+      ]
+    }
+  ],
+  "newArr": [
+    
+  ]
+}

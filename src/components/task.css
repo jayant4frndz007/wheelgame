@@ -1,0 +1,17 @@
+.taskname{
+  font-size: 20px;
+  color:white;
+  
+}
+.name{
+    padding: 5px;
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: bold;
+    color: burlywood;
+    text-transform: capitalize;
+}
+.radio-button{
+  height:20px;
+  width:20px;
+}

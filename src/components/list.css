@@ -1,0 +1,53 @@
+ul{
+    list-style-type: none;
+}
+li{
+    font-size: 30px;
+    color: wheat;
+    font-style: italic;
+    text-transform: capitalize;
+}
+input{
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+    
+    border-bottom: solid 1px blue;
+}
+.form-control1{
+    height: 30px;
+    width: 200px;
+    border-radius: 3px;
+   
+    border-bottom: solid 1px blue;
+}
+option{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.box-suffle{
+    height: 150px;
+    width: 150px;
+    background-color: lightsalmon;
+    border-radius: 5px;
+    box-shadow: 2px 8px 8px black;
+    color:whitesmoke;
+    font-size: 20px;
+    margin-bottom: 100px;
+}
+.box-suffle:hover{
+    background-color: lightblue;
+    transition: ease-in-out;
+}
+
+.name-style{
+    color: white;
+    font-size: 30px;
+    font-weight: bolder;
+    animation: changename ease-in-out 5s infinite;
+}
+
+@keyframes changename{
+    from { transform: translate3d(0, 0, 0);} 
+    to { transform: translate3d(0, 200px, 0);} 
+}
